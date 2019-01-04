@@ -1,0 +1,13 @@
+load('mnist_all');   
+
+load('PIE_32x32.mat'); 
+
+load('ar20_50x40.mat'); 
+
+load('Yale_32x32.mat');
+
+load('Yale_64x64.mat');
+
+load('usps_all');
+
+load('face_data'); 
